@@ -1,0 +1,12 @@
+visual encodings
+graphical perception 
+supporting scalable vector graphics (SVG)
+stream graph
+box-and-whisker plot
+stem-and-leaf plot
+SPLOM (Scatter Plot Matrix)
+brushing-and-linking
+graduated symbol map
+Dorling cartogram
+node-link diagram
+adjacency diagram
